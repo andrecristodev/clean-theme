@@ -9,7 +9,7 @@ Need help installing the Theme?
 
 ## Default
 
-**Description:** <i>Standard discord theme🏻</i>
+*Description:* <i>Standard discord theme🏻</i>
 
 https://cdn.discordapp.com/attachments/657836800475398145/777007770086932520/unknown.png
 
@@ -17,11 +17,11 @@ https://cdn.discordapp.com/attachments/657836800475398145/777007770086932520/unk
 
 **Description:** <i>Pollution-free theme</i>
 
-![](https://media.discordapp.net/attachments/657836800475398145/777008275484049418/unknown.png)
+https://media.discordapp.net/attachments/657836800475398145/777008275484049418/unknown.png
 
 ## Requires
 
-**Description:** ***BetterDiscord***
+*Description:* ***BetterDiscord***
 
 https://github.com/rauenzi/BetterDiscordApp
 
