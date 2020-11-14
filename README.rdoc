@@ -13,7 +13,7 @@ Need help installing the Theme?
 
 https://cdn.discordapp.com/attachments/657836800475398145/777007770086932520/unknown.png
 
-## [Clear Theme](https://github.com/andrelnext/Clear-Theme/blob/master/Clear-Theme.css)
+## Clear Theme
 
 **Description:** <i>Pollution-free theme</i>
 
