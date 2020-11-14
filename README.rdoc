@@ -3,7 +3,7 @@ Need help installing the Theme?
 
 1 - Install the code
 
-2 - Rename the code to "Clear-theme.theme.css"
+2 - Rename the code to "Clear-Theme.theme.css"
 
 > WARNING: If you do not leave this model above, it may not work.
 
