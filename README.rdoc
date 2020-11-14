@@ -7,11 +7,11 @@ Need help installing the Theme?
 
 > WARNING: If you do not leave this model above, it may not work.
 
-## [Default]
+## Default
 
 **Description:** <i>Standard discord theme🏻</i>
 
-![](https://cdn.discordapp.com/attachments/657836800475398145/777007770086932520/unknown.png)
+https://cdn.discordapp.com/attachments/657836800475398145/777007770086932520/unknown.png
 
 ## [Clear Theme](https://github.com/andrelnext/Clear-Theme/blob/master/Clear-Theme.css)
 
@@ -19,7 +19,7 @@ Need help installing the Theme?
 
 ![](https://media.discordapp.net/attachments/657836800475398145/777008275484049418/unknown.png)
 
-## [Requires]
+## Requires
 
 **Description:** ***BetterDiscord***
 
